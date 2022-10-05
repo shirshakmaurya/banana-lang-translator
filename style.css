@@ -1,0 +1,19 @@
+#output{
+    border: 1px solid black;
+    height: 10vh;
+    width: 70%;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+#txt-input{
+    border: 1px black solid;
+    height: 10vh;
+    width: 70%;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+#btn-translate{
+    display: block;
+}
